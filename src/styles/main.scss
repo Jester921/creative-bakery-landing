@@ -1,3 +1,16 @@
-body {
-  margin: 0;
-}
+@import "./utils/variables.scss";
+@import "./utils/mixin.scss";
+
+@import "./block/page.scss";
+@import "./block/header.scss";
+@import "./block/top-bar.scss";
+@import "./block/icon.scss";
+@import "./block/menu.scss";
+@import "./block/nav.scss";
+@import "./block/main-block.scss";
+@import "./block/button.scss";
+@import "./block/product.scss";
+@import "./block/about-us.scss";
+@import "./block/stats.scss";
+@import "./block/footer.scss";
+@import "./block/footer.scss";
